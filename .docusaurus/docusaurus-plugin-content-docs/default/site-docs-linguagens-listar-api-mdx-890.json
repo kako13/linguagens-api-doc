@@ -6,7 +6,7 @@
   "source": "@site/docs/linguagens/listar.api.mdx",
   "sourceDirName": "linguagens",
   "slug": "/linguagens/listar",
-  "permalink": "/linguagens-api/docs/linguagens/listar",
+  "permalink": "/linguagens-api-doc/docs/linguagens/listar",
   "draft": false,
   "editUrl": null,
   "tags": [],
@@ -186,10 +186,10 @@
   "sidebar": "openApiSidebar",
   "previous": {
     "title": "Realiza a exclusão de uma linguagem cadastradas",
-    "permalink": "/linguagens-api/docs/linguagens/remover"
+    "permalink": "/linguagens-api-doc/docs/linguagens/remover"
   },
   "next": {
     "title": "Realiza o cadastro de uma linguagem",
-    "permalink": "/linguagens-api/docs/linguagens/adicionar"
+    "permalink": "/linguagens-api-doc/docs/linguagens/adicionar"
   }
 }

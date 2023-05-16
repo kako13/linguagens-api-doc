@@ -18,41 +18,41 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/linguagens-api/docs/linguagens/linguagens-api",
+            "href": "/linguagens-api-doc/docs/linguagens/linguagens-api",
             "docId": "linguagens/linguagens-api"
           },
           {
             "type": "link",
             "label": "Realiza o cadastro de uma linguagem",
-            "href": "/linguagens-api/docs/linguagens/adicionar",
+            "href": "/linguagens-api-doc/docs/linguagens/adicionar",
             "className": "post api-method",
             "docId": "linguagens/adicionar"
           },
           {
             "type": "link",
             "label": "Realiza a alteração de uma linguagem cadastrada",
-            "href": "/linguagens-api/docs/linguagens/atualizar",
+            "href": "/linguagens-api-doc/docs/linguagens/atualizar",
             "className": "put api-method",
             "docId": "linguagens/atualizar"
           },
           {
             "type": "link",
             "label": "Realiza a consulta das linguagens cadastradas",
-            "href": "/linguagens-api/docs/linguagens/listar",
+            "href": "/linguagens-api-doc/docs/linguagens/listar",
             "className": "get api-method",
             "docId": "linguagens/listar"
           },
           {
             "type": "link",
             "label": "Realiza a consulta de uma linguagem cadastradas",
-            "href": "/linguagens-api/docs/linguagens/obter-por-id",
+            "href": "/linguagens-api-doc/docs/linguagens/obter-por-id",
             "className": "get api-method",
             "docId": "linguagens/obter-por-id"
           },
           {
             "type": "link",
             "label": "Realiza a exclusão de uma linguagem cadastradas",
-            "href": "/linguagens-api/docs/linguagens/remover",
+            "href": "/linguagens-api-doc/docs/linguagens/remover",
             "className": "delete api-method",
             "docId": "linguagens/remover"
           }
@@ -67,7 +67,7 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/linguagens-api/docs/linguagens/linguagens-api",
+            "href": "/linguagens-api-doc/docs/linguagens/linguagens-api",
             "docId": "linguagens/linguagens-api"
           },
           {
@@ -77,35 +77,35 @@
               {
                 "type": "link",
                 "label": "Realiza a consulta de uma linguagem cadastradas",
-                "href": "/linguagens-api/docs/linguagens/obter-por-id",
+                "href": "/linguagens-api-doc/docs/linguagens/obter-por-id",
                 "className": "api-method get",
                 "docId": "linguagens/obter-por-id"
               },
               {
                 "type": "link",
                 "label": "Realiza a alteração de uma linguagem cadastrada",
-                "href": "/linguagens-api/docs/linguagens/atualizar",
+                "href": "/linguagens-api-doc/docs/linguagens/atualizar",
                 "className": "api-method put",
                 "docId": "linguagens/atualizar"
               },
               {
                 "type": "link",
                 "label": "Realiza a exclusão de uma linguagem cadastradas",
-                "href": "/linguagens-api/docs/linguagens/remover",
+                "href": "/linguagens-api-doc/docs/linguagens/remover",
                 "className": "api-method delete",
                 "docId": "linguagens/remover"
               },
               {
                 "type": "link",
                 "label": "Realiza a consulta das linguagens cadastradas",
-                "href": "/linguagens-api/docs/linguagens/listar",
+                "href": "/linguagens-api-doc/docs/linguagens/listar",
                 "className": "api-method get",
                 "docId": "linguagens/listar"
               },
               {
                 "type": "link",
                 "label": "Realiza o cadastro de uma linguagem",
-                "href": "/linguagens-api/docs/linguagens/adicionar",
+                "href": "/linguagens-api-doc/docs/linguagens/adicionar",
                 "className": "api-method post",
                 "docId": "linguagens/adicionar"
               }
@@ -116,7 +116,7 @@
         ],
         "collapsed": true,
         "collapsible": true,
-        "href": "/linguagens-api/docs/category/linguagens-api"
+        "href": "/linguagens-api-doc/docs/category/linguagens-api"
       }
     ]
   },

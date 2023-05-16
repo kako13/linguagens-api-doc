@@ -8,19 +8,19 @@ export default {
   "tagline": "das melhores linguagens de programação",
   "favicon": "img/gray/api-icon1.svg",
   "url": "https://kako13.github.io",
-  "baseUrl": "/linguagens-api/",
+  "baseUrl": "/linguagens-api-doc/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "projectName": "linguagens-api",
+  "projectName": "linguagens-api-doc",
   "organizationName": "kako13",
-  "deploymentBranch": "documentacao-docusaurus",
-  "trailingSlash": false,
+  "deploymentBranch": "deployment",
+  "trailingSlash": true,
   "presets": [
     [
       "classic",
       {
         "docs": {
-          "sidebarPath": "/mnt/e/Imersão Alura/linguagens-api/docs/sidebars.js",
+          "sidebarPath": "/mnt/e/Imersão Alura/linguagens-api-doc/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "docLayoutComponent": "@theme/DocPage",
           "docItemComponent": "@theme/ApiItem"
@@ -30,7 +30,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/mnt/e/Imersão Alura/linguagens-api/docs/src/css/custom.css"
+          "customCss": "/mnt/e/Imersão Alura/linguagens-api-doc/src/css/custom.css"
         }
       }
     ]

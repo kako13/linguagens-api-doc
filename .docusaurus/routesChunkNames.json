@@ -1,50 +1,50 @@
 {
-  "/linguagens-api/markdown-page-add": {
+  "/linguagens-api-doc/markdown-page/-844": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "1418ff2e"
+      "plugin": "f69e9c93"
     },
     "content": "393be207"
   },
-  "/linguagens-api/docs-18c": {
+  "/linguagens-api-doc/docs/-0e3": {
     "__comp": "1be78505",
     "__context": {
-      "plugin": "f2258f5f"
+      "plugin": "48efdf0c"
     },
     "versionMetadata": "935f2afb"
   },
-  "/linguagens-api/docs/category/linguagens-api-367": {
+  "/linguagens-api-doc/docs/category/linguagens-api/-2ea": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "7d1b7fda"
+    "categoryGeneratedIndex": "a9ba42e4"
   },
-  "/linguagens-api/docs/linguagens/adicionar-a74": {
+  "/linguagens-api-doc/docs/linguagens/adicionar/-499": {
     "__comp": "4c5e977b",
     "content": "cc87bed3"
   },
-  "/linguagens-api/docs/linguagens/atualizar-8c4": {
+  "/linguagens-api-doc/docs/linguagens/atualizar/-696": {
     "__comp": "4c5e977b",
     "content": "a30b9ea5"
   },
-  "/linguagens-api/docs/linguagens/linguagens-api-eaf": {
+  "/linguagens-api-doc/docs/linguagens/linguagens-api/-144": {
     "__comp": "4c5e977b",
     "content": "6afce698"
   },
-  "/linguagens-api/docs/linguagens/listar-111": {
+  "/linguagens-api-doc/docs/linguagens/listar/-907": {
     "__comp": "4c5e977b",
     "content": "890c6b62"
   },
-  "/linguagens-api/docs/linguagens/obter-por-id-ce2": {
+  "/linguagens-api-doc/docs/linguagens/obter-por-id/-bfc": {
     "__comp": "4c5e977b",
     "content": "519fad73"
   },
-  "/linguagens-api/docs/linguagens/remover-ef1": {
+  "/linguagens-api-doc/docs/linguagens/remover/-cdf": {
     "__comp": "4c5e977b",
     "content": "be7e86f8"
   },
-  "/linguagens-api/-dfa": {
+  "/linguagens-api-doc/-fe1": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "1418ff2e"
+      "plugin": "f69e9c93"
     },
     "config": "5e9f5e1a"
   }

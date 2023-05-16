@@ -6,7 +6,7 @@
   "source": "@site/docs/linguagens/adicionar.api.mdx",
   "sourceDirName": "linguagens",
   "slug": "/linguagens/adicionar",
-  "permalink": "/linguagens-api/docs/linguagens/adicionar",
+  "permalink": "/linguagens-api-doc/docs/linguagens/adicionar",
   "draft": false,
   "editUrl": null,
   "tags": [],
@@ -219,6 +219,6 @@
   "sidebar": "openApiSidebar",
   "previous": {
     "title": "Realiza a consulta das linguagens cadastradas",
-    "permalink": "/linguagens-api/docs/linguagens/listar"
+    "permalink": "/linguagens-api-doc/docs/linguagens/listar"
   }
 }

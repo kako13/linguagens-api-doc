@@ -6,7 +6,7 @@
   "source": "@site/docs/linguagens/remover.api.mdx",
   "sourceDirName": "linguagens",
   "slug": "/linguagens/remover",
-  "permalink": "/linguagens-api/docs/linguagens/remover",
+  "permalink": "/linguagens-api-doc/docs/linguagens/remover",
   "draft": false,
   "editUrl": null,
   "tags": [],
@@ -98,10 +98,10 @@
   "sidebar": "openApiSidebar",
   "previous": {
     "title": "Realiza a alteração de uma linguagem cadastrada",
-    "permalink": "/linguagens-api/docs/linguagens/atualizar"
+    "permalink": "/linguagens-api-doc/docs/linguagens/atualizar"
   },
   "next": {
     "title": "Realiza a consulta das linguagens cadastradas",
-    "permalink": "/linguagens-api/docs/linguagens/listar"
+    "permalink": "/linguagens-api-doc/docs/linguagens/listar"
   }
 }
