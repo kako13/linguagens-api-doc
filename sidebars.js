@@ -37,7 +37,9 @@ const sidebars = {
             type: "generated-index",
             title: "Linguagens API",
             description:
-              `<html>
+              `<!DOCTYPE html>
+              <html>
+              <body>
               <div>
                 <h3><strong>Bem-vindo(a)!</strong></h3> 
                   <p1>Este é um projeto que desenvolvi como proposto pela Imersão Java - Alura. Ele fornece uma API para ser consumida pela aplicação [alura-stickers](https://github.com/kako13/alura-stickers).</p1> 
@@ -47,6 +49,7 @@ const sidebars = {
                   <p1>A proposta desta API é fornecer um ranking fictício customizável das melhores linguagens de programação. Administre o ranking conforme seus critérios.</p1> 
                   <p>Sim! É simples mesmo!</p>
               </div>
+              </body>
               </html>`,
             slug: "/category/linguagens-api"
           },
