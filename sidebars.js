@@ -37,7 +37,15 @@ const sidebars = {
             type: "generated-index",
             title: "Linguagens API",
             description:
-              '<h3><b>Bem-vindo(a)!</b></h3> <p1>Este é um projeto que desenvolvi como proposto pela Imersão Java - Alura. Ele fornece uma API para ser consumida pela aplicação [alura-stickers](https://github.com/kako13/alura-stickers).</p1> A API foi criada usando Spring Rest, Spring Data MongoDB, MongoDB Atlas e Openapi 3. Permite listar as melhores linguagens de programação em um ranking customizável de acordo com o critério do usuário. Para melhorar o layout da documentação  utilizei o Docusaurus. Espero que você goste do projeto e fique à vontade para sugerir melhorias! ## Proposta  A proposta desta API é fornecer um ranking fictício customizável das melhores linguagens de programação. Administre o ranking conforme seus critérios. Sim! É simples mesmo!',
+              `<div>
+                <h3><b>Bem-vindo(a)!</b></h3> 
+                  <p1>Este é um projeto que desenvolvi como proposto pela Imersão Java - Alura. Ele fornece uma API para ser consumida pela aplicação [alura-stickers](https://github.com/kako13/alura-stickers).</p1> 
+                  <p1>A API foi criada usando Spring Rest, Spring Data MongoDB, MongoDB Atlas e Openapi 3. Permite listar as melhores linguagens de programação em um ranking customizável de acordo com o critério do usuário.</p1> 
+                  <p1>Para melhorar o layout da documentação  utilizei o Docusaurus. Espero que você goste do projeto e fique à vontade para sugerir melhorias!</p1> 
+                <h2><b>## Proposta</b></h3>   
+                  <p1>A proposta desta API é fornecer um ranking fictício customizável das melhores linguagens de programação. Administre o ranking conforme seus critérios.</p1> 
+                  <p>Sim! É simples mesmo!</p>
+              </div>`,
             slug: "/category/linguagens-api"
           },
           // @ts-ignore
