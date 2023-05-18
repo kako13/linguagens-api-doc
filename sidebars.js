@@ -40,26 +40,10 @@ const sidebars = {
               `<!DOCTYPE html>
               <html>
               
-              <head>
-                  <style type="text/css">
-                      hr {
-                          width: 50%;
-                          height: 20px;
-                          background-color: red;
-                          margin-right: auto;
-                          margin-left: auto;
-                          margin-top: 5px;
-                          margin-bottom: 5px;
-                          border-width: 2px;
-                          border-color: green;
-                      }
-                  </style>
-              </head>
-              
               <body>
-                  <h1>Bem-vindo(a)! </h1>
-                  <hr>
-                  <p1>Isto é um parágrafo separado por uma linha horizontal </p1>
+                  <h1>Este é um cabeçalho </h1>
+                  <hr size="6" width="50%" align="left" color="green">
+                  <p1>Este é o texto do parágrafo que foi separado do cabeçalho pela linha.</p1>
               </body>
               
               </html>`,
