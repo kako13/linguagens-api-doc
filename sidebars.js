@@ -1,3 +1,5 @@
+import React from 'react';
+
 /**
  * Creating a sidebar enables you to:
  - create an ordered group of docs
@@ -36,7 +38,7 @@ const sidebars = {
           link: {
             type: "generated-index",
             title: "Linguagens API",
-            description:
+            html: 
               `<div>
                 <h3><strong>Bem-vindo(a)!</strong></h3> 
                   <p1>Este é um projeto que desenvolvi como proposto pela Imersão Java - Alura. Ele fornece uma API para ser consumida pela aplicação [alura-stickers](https://github.com/kako13/alura-stickers).</p1> 
