@@ -3,16 +3,16 @@
     "main"
   ],
   "origins": {
-    "36": [
+    "432": [
       532,
       592,
       814,
       893,
-      36
+      432
     ],
     "814": [
-      36,
       85,
+      432,
       532,
       592,
       893,
@@ -40,6 +40,7 @@
     ],
     "1be78505": [
       532,
+      592,
       972
     ],
     "1f391b9e": [
@@ -53,7 +54,7 @@
       414
     ],
     "4c5e977b": [
-      36,
+      432,
       532,
       592,
       814,
@@ -104,13 +105,13 @@
     ],
     "styles": [
       7,
-      36,
       85,
       102,
       179,
       195,
       273,
       303,
+      432,
       514,
       592,
       774,
@@ -123,11 +124,12 @@
     ],
     "common": [
       7,
-      36,
       85,
       102,
       273,
       414,
+      432,
+      514,
       532,
       774,
       814,
@@ -144,15 +146,6 @@
           "file": "assets/js/a30b9ea5.bab309ff.js",
           "hash": "3cdb2ee840b0cfb5",
           "publicPath": "/linguagens-api-doc/assets/js/a30b9ea5.bab309ff.js"
-        }
-      ]
-    },
-    "36": {
-      "js": [
-        {
-          "file": "assets/js/36.8a535d25.js",
-          "hash": "7117419d826accf7",
-          "publicPath": "/linguagens-api-doc/assets/js/36.8a535d25.js"
         }
       ]
     },
@@ -177,9 +170,9 @@
     "85": {
       "js": [
         {
-          "file": "assets/js/1f391b9e.fe3dec33.js",
-          "hash": "dfe3bb0d370f2a25",
-          "publicPath": "/linguagens-api-doc/assets/js/1f391b9e.fe3dec33.js"
+          "file": "assets/js/1f391b9e.a84516d7.js",
+          "hash": "67769fc6f409a24e",
+          "publicPath": "/linguagens-api-doc/assets/js/1f391b9e.a84516d7.js"
         }
       ]
     },
@@ -195,18 +188,18 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.680a0c2c.js",
-          "hash": "8c40b7a82b15eaa5",
-          "publicPath": "/linguagens-api-doc/assets/js/main.680a0c2c.js"
+          "file": "assets/js/main.ea405040.js",
+          "hash": "64b1c4b52f436c78",
+          "publicPath": "/linguagens-api-doc/assets/js/main.ea405040.js"
         }
       ]
     },
     "195": {
       "js": [
         {
-          "file": "assets/js/c4f5d8e4.0fb40eae.js",
-          "hash": "629a116e6569fbb0",
-          "publicPath": "/linguagens-api-doc/assets/js/c4f5d8e4.0fb40eae.js"
+          "file": "assets/js/c4f5d8e4.7c9a919c.js",
+          "hash": "ecfc11147c9c0822",
+          "publicPath": "/linguagens-api-doc/assets/js/c4f5d8e4.7c9a919c.js"
         }
       ]
     },
@@ -222,9 +215,9 @@
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.c8113f21.js",
-          "hash": "7e3d11a565e2591b",
-          "publicPath": "/linguagens-api-doc/assets/js/runtime~main.c8113f21.js"
+          "file": "assets/js/runtime~main.8e1880bf.js",
+          "hash": "b3e31c610c68ba7b",
+          "publicPath": "/linguagens-api-doc/assets/js/runtime~main.8e1880bf.js"
         }
       ]
     },
@@ -237,21 +230,30 @@
         }
       ]
     },
+    "432": {
+      "js": [
+        {
+          "file": "assets/js/432.46734f04.js",
+          "hash": "0a9262ff740e64bc",
+          "publicPath": "/linguagens-api-doc/assets/js/432.46734f04.js"
+        }
+      ]
+    },
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.b423f838.css",
-          "hash": "f2c5bcb8c3ed6f68",
-          "publicPath": "/linguagens-api-doc/assets/css/styles.b423f838.css"
+          "file": "assets/css/styles.c11f8395.css",
+          "hash": "03aed30d226bc5e4",
+          "publicPath": "/linguagens-api-doc/assets/css/styles.c11f8395.css"
         }
       ]
     },
     "592": {
       "js": [
         {
-          "file": "assets/js/common.7d6f5059.js",
-          "hash": "5b56a5c1c43a8f69",
-          "publicPath": "/linguagens-api-doc/assets/js/common.7d6f5059.js"
+          "file": "assets/js/common.86be2ee8.js",
+          "hash": "a867718bfc749bdd",
+          "publicPath": "/linguagens-api-doc/assets/js/common.86be2ee8.js"
         }
       ]
     },
@@ -276,9 +278,9 @@
     "814": {
       "js": [
         {
-          "file": "assets/js/814.778f96c4.js",
-          "hash": "bbd71bfa3cfcb609",
-          "publicPath": "/linguagens-api-doc/assets/js/814.778f96c4.js"
+          "file": "assets/js/814.10313795.js",
+          "hash": "c87d79c0f87076c1",
+          "publicPath": "/linguagens-api-doc/assets/js/814.10313795.js"
         }
       ]
     },
@@ -294,9 +296,9 @@
     "817": {
       "js": [
         {
-          "file": "assets/js/14eb3368.05a80674.js",
-          "hash": "510e3a863109402d",
-          "publicPath": "/linguagens-api-doc/assets/js/14eb3368.05a80674.js"
+          "file": "assets/js/14eb3368.bb8ed783.js",
+          "hash": "721a6b63a7cccbc1",
+          "publicPath": "/linguagens-api-doc/assets/js/14eb3368.bb8ed783.js"
         }
       ]
     },
@@ -330,14 +332,14 @@
     "972": {
       "js": [
         {
-          "file": "assets/js/972.77d04036.js",
-          "hash": "c2b4227e24c786fb",
-          "publicPath": "/linguagens-api-doc/assets/js/972.77d04036.js"
+          "file": "assets/js/972.b379d26c.js",
+          "hash": "fb9c1b5e7b8d6ef2",
+          "publicPath": "/linguagens-api-doc/assets/js/972.b379d26c.js"
         },
         {
-          "file": "assets/js/1be78505.519a3f30.js",
-          "hash": "6d9ff6f7f883d7b8",
-          "publicPath": "/linguagens-api-doc/assets/js/1be78505.519a3f30.js"
+          "file": "assets/js/1be78505.d745e991.js",
+          "hash": "fe0c41b940dca677",
+          "publicPath": "/linguagens-api-doc/assets/js/1be78505.d745e991.js"
         }
       ]
     }
