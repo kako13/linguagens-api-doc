@@ -10,14 +10,14 @@ const config = {
   tagline: 'das melhores linguagens de programação',
   favicon: "img/gray/api-icon1.svg",
   url: 'https://kako13.github.io', // Your website URL
-  baseUrl: "linguagens-api-doc",
+  baseUrl: "/linguagens-api-doc/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
   projectName: 'linguagens-api-doc',
   organizationName: 'kako13',
-  deploymentBranch: 'master',
-  trailingSlash: true,
+  deploymentBranch: 'deployment',
+  trailingSlash: false,
 
   presets: [
     [
