@@ -1,51 +1,94 @@
 {
-  "/linguagens-api/markdown-page-add": {
-    "__comp": "1f391b9e",
+  "/linguagens-api-doc/__docusaurus/debug-4fd": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "1418ff2e"
-    },
-    "content": "393be207"
+      "plugin": "plugin---linguagens-api-doc-docusaurus-debug-975-ad9"
+    }
   },
-  "/linguagens-api/docs-18c": {
-    "__comp": "1be78505",
+  "/linguagens-api-doc/__docusaurus/debug/config-d99": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "f2258f5f"
-    },
-    "versionMetadata": "935f2afb"
+      "plugin": "plugin---linguagens-api-doc-docusaurus-debug-975-ad9"
+    }
   },
-  "/linguagens-api/docs/category/linguagens-api-367": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "7d1b7fda"
-  },
-  "/linguagens-api/docs/linguagens/adicionar-a74": {
-    "__comp": "4c5e977b",
-    "content": "cc87bed3"
-  },
-  "/linguagens-api/docs/linguagens/atualizar-8c4": {
-    "__comp": "4c5e977b",
-    "content": "a30b9ea5"
-  },
-  "/linguagens-api/docs/linguagens/linguagens-api-eaf": {
-    "__comp": "4c5e977b",
-    "content": "6afce698"
-  },
-  "/linguagens-api/docs/linguagens/listar-111": {
-    "__comp": "4c5e977b",
-    "content": "890c6b62"
-  },
-  "/linguagens-api/docs/linguagens/obter-por-id-ce2": {
-    "__comp": "4c5e977b",
-    "content": "519fad73"
-  },
-  "/linguagens-api/docs/linguagens/remover-ef1": {
-    "__comp": "4c5e977b",
-    "content": "be7e86f8"
-  },
-  "/linguagens-api/-dfa": {
-    "__comp": "c4f5d8e4",
+  "/linguagens-api-doc/__docusaurus/debug/content-6cc": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "1418ff2e"
+      "plugin": "plugin---linguagens-api-doc-docusaurus-debug-975-ad9"
     },
-    "config": "5e9f5e1a"
+    "allContent": "allContent---linguagens-api-doc-docusaurus-debug-content-246-e26"
+  },
+  "/linguagens-api-doc/__docusaurus/debug/globalData-a80": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---linguagens-api-doc-docusaurus-debug-975-ad9"
+    }
+  },
+  "/linguagens-api-doc/__docusaurus/debug/metadata-c20": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---linguagens-api-doc-docusaurus-debug-975-ad9"
+    }
+  },
+  "/linguagens-api-doc/__docusaurus/debug/registry-4c1": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---linguagens-api-doc-docusaurus-debug-975-ad9"
+    }
+  },
+  "/linguagens-api-doc/__docusaurus/debug/routes-b45": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---linguagens-api-doc-docusaurus-debug-975-ad9"
+    }
+  },
+  "/linguagens-api-doc/markdown-page-254": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---linguagens-api-doc-markdown-pageab-9-d1d"
+    },
+    "content": "content---linguagens-api-doc-markdown-page-393-8b6"
+  },
+  "/linguagens-api-doc/docs-69e": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---linguagens-api-doc-docs-110-eed"
+    },
+    "versionMetadata": "versionMetadata---linguagens-api-doc-docs-935-bb7"
+  },
+  "/linguagens-api-doc/docs/category/linguagens-api-5c1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---linguagens-api-doc-docs-category-linguagens-apia-9-b-086"
+  },
+  "/linguagens-api-doc/docs/linguagens/adicionar-a3d": {
+    "__comp": "__comp---theme-api-item-4-c-5-a29",
+    "content": "content---linguagens-api-doc-docs-linguagens-adicionarcc-8-e39"
+  },
+  "/linguagens-api-doc/docs/linguagens/atualizar-a44": {
+    "__comp": "__comp---theme-api-item-4-c-5-a29",
+    "content": "content---linguagens-api-doc-docs-linguagens-atualizara-30-742"
+  },
+  "/linguagens-api-doc/docs/linguagens/linguagens-api-751": {
+    "__comp": "__comp---theme-api-item-4-c-5-a29",
+    "content": "content---linguagens-api-doc-docs-linguagens-linguagens-api-6-af-bb5"
+  },
+  "/linguagens-api-doc/docs/linguagens/listar-933": {
+    "__comp": "__comp---theme-api-item-4-c-5-a29",
+    "content": "content---linguagens-api-doc-docs-linguagens-listar-890-4b0"
+  },
+  "/linguagens-api-doc/docs/linguagens/obter-por-id-0f0": {
+    "__comp": "__comp---theme-api-item-4-c-5-a29",
+    "content": "content---linguagens-api-doc-docs-linguagens-obter-por-id-519-056"
+  },
+  "/linguagens-api-doc/docs/linguagens/remover-83d": {
+    "__comp": "__comp---theme-api-item-4-c-5-a29",
+    "content": "content---linguagens-api-doc-docs-linguagens-removerbe-7-534"
+  },
+  "/linguagens-api-doc/-b49": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---linguagens-api-doc-markdown-pageab-9-d1d"
+    },
+    "config": "config---linguagens-api-doc-5-e-9-9c2"
   }
 }

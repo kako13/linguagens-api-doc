@@ -6,7 +6,7 @@
   "source": "@site/docs/linguagens/linguagens-api.info.mdx",
   "sourceDirName": "linguagens",
   "slug": "/linguagens/linguagens-api",
-  "permalink": "/linguagens-api/docs/linguagens/linguagens-api",
+  "permalink": "/linguagens-api-doc/docs/linguagens/linguagens-api",
   "draft": false,
   "editUrl": null,
   "tags": [],
@@ -24,10 +24,10 @@
   "sidebar": "openApiSidebar",
   "previous": {
     "title": "API",
-    "permalink": "/linguagens-api/docs/category/linguagens-api"
+    "permalink": "/linguagens-api-doc/docs/category/linguagens-api"
   },
   "next": {
     "title": "Realiza a consulta de uma linguagem cadastradas",
-    "permalink": "/linguagens-api/docs/linguagens/obter-por-id"
+    "permalink": "/linguagens-api-doc/docs/linguagens/obter-por-id"
   }
 }

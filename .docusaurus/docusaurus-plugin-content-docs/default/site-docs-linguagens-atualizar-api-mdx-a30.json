@@ -6,7 +6,7 @@
   "source": "@site/docs/linguagens/atualizar.api.mdx",
   "sourceDirName": "linguagens",
   "slug": "/linguagens/atualizar",
-  "permalink": "/linguagens-api/docs/linguagens/atualizar",
+  "permalink": "/linguagens-api-doc/docs/linguagens/atualizar",
   "draft": false,
   "editUrl": null,
   "tags": [],
@@ -241,10 +241,10 @@
   "sidebar": "openApiSidebar",
   "previous": {
     "title": "Realiza a consulta de uma linguagem cadastradas",
-    "permalink": "/linguagens-api/docs/linguagens/obter-por-id"
+    "permalink": "/linguagens-api-doc/docs/linguagens/obter-por-id"
   },
   "next": {
     "title": "Realiza a exclusão de uma linguagem cadastradas",
-    "permalink": "/linguagens-api/docs/linguagens/remover"
+    "permalink": "/linguagens-api-doc/docs/linguagens/remover"
   }
 }

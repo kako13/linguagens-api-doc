@@ -6,7 +6,7 @@
   "source": "@site/docs/linguagens/obter-por-id.api.mdx",
   "sourceDirName": "linguagens",
   "slug": "/linguagens/obter-por-id",
-  "permalink": "/linguagens-api/docs/linguagens/obter-por-id",
+  "permalink": "/linguagens-api-doc/docs/linguagens/obter-por-id",
   "draft": false,
   "editUrl": null,
   "tags": [],
@@ -196,10 +196,10 @@
   "sidebar": "openApiSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/linguagens-api/docs/linguagens/linguagens-api"
+    "permalink": "/linguagens-api-doc/docs/linguagens/linguagens-api"
   },
   "next": {
     "title": "Realiza a alteração de uma linguagem cadastrada",
-    "permalink": "/linguagens-api/docs/linguagens/atualizar"
+    "permalink": "/linguagens-api-doc/docs/linguagens/atualizar"
   }
 }
