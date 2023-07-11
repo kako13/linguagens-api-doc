@@ -3,53 +3,53 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/linguagens-api-doc/markdown-page/',
-    component: ComponentCreator('/linguagens-api-doc/markdown-page/', '844'),
+    path: '/linguagens-api-doc/markdown-page',
+    component: ComponentCreator('/linguagens-api-doc/markdown-page', '254'),
     exact: true
   },
   {
-    path: '/linguagens-api-doc/docs/',
-    component: ComponentCreator('/linguagens-api-doc/docs/', '0e3'),
+    path: '/linguagens-api-doc/docs',
+    component: ComponentCreator('/linguagens-api-doc/docs', '69e'),
     routes: [
       {
-        path: '/linguagens-api-doc/docs/category/linguagens-api/',
-        component: ComponentCreator('/linguagens-api-doc/docs/category/linguagens-api/', '2ea'),
+        path: '/linguagens-api-doc/docs/category/linguagens-api',
+        component: ComponentCreator('/linguagens-api-doc/docs/category/linguagens-api', '5c1'),
         exact: true,
         sidebar: "openApiSidebar"
       },
       {
-        path: '/linguagens-api-doc/docs/linguagens/adicionar/',
-        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/adicionar/', '499'),
+        path: '/linguagens-api-doc/docs/linguagens/adicionar',
+        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/adicionar', 'a3d'),
         exact: true,
         sidebar: "openApiSidebar"
       },
       {
-        path: '/linguagens-api-doc/docs/linguagens/atualizar/',
-        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/atualizar/', '696'),
+        path: '/linguagens-api-doc/docs/linguagens/atualizar',
+        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/atualizar', 'a44'),
         exact: true,
         sidebar: "openApiSidebar"
       },
       {
-        path: '/linguagens-api-doc/docs/linguagens/linguagens-api/',
-        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/linguagens-api/', '144'),
+        path: '/linguagens-api-doc/docs/linguagens/linguagens-api',
+        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/linguagens-api', '751'),
         exact: true,
         sidebar: "openApiSidebar"
       },
       {
-        path: '/linguagens-api-doc/docs/linguagens/listar/',
-        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/listar/', '907'),
+        path: '/linguagens-api-doc/docs/linguagens/listar',
+        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/listar', '933'),
         exact: true,
         sidebar: "openApiSidebar"
       },
       {
-        path: '/linguagens-api-doc/docs/linguagens/obter-por-id/',
-        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/obter-por-id/', 'bfc'),
+        path: '/linguagens-api-doc/docs/linguagens/obter-por-id',
+        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/obter-por-id', '0f0'),
         exact: true,
         sidebar: "openApiSidebar"
       },
       {
-        path: '/linguagens-api-doc/docs/linguagens/remover/',
-        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/remover/', 'cdf'),
+        path: '/linguagens-api-doc/docs/linguagens/remover',
+        component: ComponentCreator('/linguagens-api-doc/docs/linguagens/remover', '83d'),
         exact: true,
         sidebar: "openApiSidebar"
       }
@@ -57,7 +57,7 @@ export default [
   },
   {
     path: '/linguagens-api-doc/',
-    component: ComponentCreator('/linguagens-api-doc/', 'fe1'),
+    component: ComponentCreator('/linguagens-api-doc/', 'b49'),
     exact: true
   },
   {

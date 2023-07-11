@@ -9,15 +9,15 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/linguagens-api/docs",
-          "tagsPath": "/linguagens-api/docs/tags",
+          "path": "/linguagens-api-doc/docs",
+          "tagsPath": "/linguagens-api-doc/docs/tags",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/mnt/e/Imersão Alura/linguagens-api/docs/sidebars.js",
-          "contentPath": "/mnt/e/Imersão Alura/linguagens-api/docs/docs",
-          "contentPathLocalized": "/mnt/e/Imersão Alura/linguagens-api/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/mnt/e/Dev Repo/Alura/Imersão Alura/linguagens-api-doc/sidebars.js",
+          "contentPath": "/mnt/e/Dev Repo/Alura/Imersão Alura/linguagens-api-doc/docs",
+          "contentPathLocalized": "/mnt/e/Dev Repo/Alura/Imersão Alura/linguagens-api-doc/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "linguagens/adicionar",
@@ -27,7 +27,7 @@
               "source": "@site/docs/linguagens/adicionar.api.mdx",
               "sourceDirName": "linguagens",
               "slug": "/linguagens/adicionar",
-              "permalink": "/linguagens-api/docs/linguagens/adicionar",
+              "permalink": "/linguagens-api-doc/docs/linguagens/adicionar",
               "draft": false,
               "editUrl": null,
               "tags": [],
@@ -240,7 +240,7 @@
               "sidebar": "openApiSidebar",
               "previous": {
                 "title": "Realiza a consulta das linguagens cadastradas",
-                "permalink": "/linguagens-api/docs/linguagens/listar"
+                "permalink": "/linguagens-api-doc/docs/linguagens/listar"
               }
             },
             {
@@ -251,7 +251,7 @@
               "source": "@site/docs/linguagens/atualizar.api.mdx",
               "sourceDirName": "linguagens",
               "slug": "/linguagens/atualizar",
-              "permalink": "/linguagens-api/docs/linguagens/atualizar",
+              "permalink": "/linguagens-api-doc/docs/linguagens/atualizar",
               "draft": false,
               "editUrl": null,
               "tags": [],
@@ -486,11 +486,11 @@
               "sidebar": "openApiSidebar",
               "previous": {
                 "title": "Realiza a consulta de uma linguagem cadastradas",
-                "permalink": "/linguagens-api/docs/linguagens/obter-por-id"
+                "permalink": "/linguagens-api-doc/docs/linguagens/obter-por-id"
               },
               "next": {
                 "title": "Realiza a exclusão de uma linguagem cadastradas",
-                "permalink": "/linguagens-api/docs/linguagens/remover"
+                "permalink": "/linguagens-api-doc/docs/linguagens/remover"
               }
             },
             {
@@ -501,7 +501,7 @@
               "source": "@site/docs/linguagens/linguagens-api.info.mdx",
               "sourceDirName": "linguagens",
               "slug": "/linguagens/linguagens-api",
-              "permalink": "/linguagens-api/docs/linguagens/linguagens-api",
+              "permalink": "/linguagens-api-doc/docs/linguagens/linguagens-api",
               "draft": false,
               "editUrl": null,
               "tags": [],
@@ -519,11 +519,11 @@
               "sidebar": "openApiSidebar",
               "previous": {
                 "title": "API",
-                "permalink": "/linguagens-api/docs/category/linguagens-api"
+                "permalink": "/linguagens-api-doc/docs/category/linguagens-api"
               },
               "next": {
                 "title": "Realiza a consulta de uma linguagem cadastradas",
-                "permalink": "/linguagens-api/docs/linguagens/obter-por-id"
+                "permalink": "/linguagens-api-doc/docs/linguagens/obter-por-id"
               }
             },
             {
@@ -534,7 +534,7 @@
               "source": "@site/docs/linguagens/listar.api.mdx",
               "sourceDirName": "linguagens",
               "slug": "/linguagens/listar",
-              "permalink": "/linguagens-api/docs/linguagens/listar",
+              "permalink": "/linguagens-api-doc/docs/linguagens/listar",
               "draft": false,
               "editUrl": null,
               "tags": [],
@@ -714,11 +714,11 @@
               "sidebar": "openApiSidebar",
               "previous": {
                 "title": "Realiza a exclusão de uma linguagem cadastradas",
-                "permalink": "/linguagens-api/docs/linguagens/remover"
+                "permalink": "/linguagens-api-doc/docs/linguagens/remover"
               },
               "next": {
                 "title": "Realiza o cadastro de uma linguagem",
-                "permalink": "/linguagens-api/docs/linguagens/adicionar"
+                "permalink": "/linguagens-api-doc/docs/linguagens/adicionar"
               }
             },
             {
@@ -729,7 +729,7 @@
               "source": "@site/docs/linguagens/obter-por-id.api.mdx",
               "sourceDirName": "linguagens",
               "slug": "/linguagens/obter-por-id",
-              "permalink": "/linguagens-api/docs/linguagens/obter-por-id",
+              "permalink": "/linguagens-api-doc/docs/linguagens/obter-por-id",
               "draft": false,
               "editUrl": null,
               "tags": [],
@@ -919,11 +919,11 @@
               "sidebar": "openApiSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/linguagens-api/docs/linguagens/linguagens-api"
+                "permalink": "/linguagens-api-doc/docs/linguagens/linguagens-api"
               },
               "next": {
                 "title": "Realiza a alteração de uma linguagem cadastrada",
-                "permalink": "/linguagens-api/docs/linguagens/atualizar"
+                "permalink": "/linguagens-api-doc/docs/linguagens/atualizar"
               }
             },
             {
@@ -934,7 +934,7 @@
               "source": "@site/docs/linguagens/remover.api.mdx",
               "sourceDirName": "linguagens",
               "slug": "/linguagens/remover",
-              "permalink": "/linguagens-api/docs/linguagens/remover",
+              "permalink": "/linguagens-api-doc/docs/linguagens/remover",
               "draft": false,
               "editUrl": null,
               "tags": [],
@@ -1026,11 +1026,11 @@
               "sidebar": "openApiSidebar",
               "previous": {
                 "title": "Realiza a alteração de uma linguagem cadastrada",
-                "permalink": "/linguagens-api/docs/linguagens/atualizar"
+                "permalink": "/linguagens-api-doc/docs/linguagens/atualizar"
               },
               "next": {
                 "title": "Realiza a consulta das linguagens cadastradas",
-                "permalink": "/linguagens-api/docs/linguagens/listar"
+                "permalink": "/linguagens-api-doc/docs/linguagens/listar"
               }
             }
           ],
@@ -1088,9 +1088,9 @@
                 "link": {
                   "type": "generated-index",
                   "title": "Linguagens API",
-                  "description": "Bem-vindo(a)! Este é um projeto que desenvolvi como proposto pela Imersão Java - Alura. Ele fornece uma API para ser consumida pela aplicação [alura-stickers](https://github.com/kako13/alura-stickers). \n\nA API foi criada usando Spring Rest, Spring Data MongoDB, MongoDB Atlas e Openapi 3. Permite listar as melhores linguagens de programação em um ranking customizável de acordo com o critério do usuário. \n\nPara melhorar o layout da documentação  utilizei o Docusaurus. \n\nEspero que você goste do projeto e fique à vontade para sugerir melhorias! \n\n## Proposta  \nA proposta desta API é fornecer um ranking fictício customizável das melhores linguagens de programação. \n\nAdministre o ranking conforme seus critérios. \n\n\n\nSim! É simples mesmo!",
+                  "description": "# Bem-vindo(a)!     ## Este é um projeto que desenvolvi como proposto pela Imersão Java - Alura. Ele fornece uma API para ser consumida pela aplicação [alura-stickers](https://github.com/kako13/alura-stickers). \n\nA API foi criada usando Spring Rest, Spring Data MongoDB, MongoDB Atlas e Openapi 3. Permite listar as melhores linguagens de programação em um ranking customizável de acordo com o critério do usuário. \n\nPara melhorar o layout da documentação  utilizei o Docusaurus. \n\nEspero que você goste do projeto e fique à vontade para sugerir melhorias! \n\n## Proposta  \nA proposta desta API é fornecer um ranking fictício customizável das melhores linguagens de programação. \n\nAdministre o ranking conforme seus critérios. \n\n\n\nSim! É simples mesmo!",
                   "slug": "/category/linguagens-api",
-                  "permalink": "/linguagens-api/docs/category/linguagens-api"
+                  "permalink": "/linguagens-api-doc/docs/category/linguagens-api"
                 },
                 "items": [
                   {
@@ -1156,7 +1156,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/linguagens-api/blog/tags",
+      "blogTagsListPath": "/linguagens-api-doc/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -1164,12 +1164,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/linguagens-api/",
+        "permalink": "/linguagens-api-doc/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/linguagens-api/markdown-page",
+        "permalink": "/linguagens-api-doc/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

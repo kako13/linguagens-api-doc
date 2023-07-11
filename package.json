@@ -18,8 +18,8 @@
     "clean-api-docs:version": "docusaurus clean-api-docs:version"
   },
   "dependencies": {
-    "@docusaurus/core": ">=2.0.1 <2.3.0",
-    "@docusaurus/preset-classic": ">=2.0.1 <2.3.0",
+    "@docusaurus/core": "^2.4.1",
+    "@docusaurus/preset-classic": "^2.4.1",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
     "docusaurus-plugin-openapi-docs": "^1.7.0",

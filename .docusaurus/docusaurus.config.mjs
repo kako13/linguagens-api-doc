@@ -14,13 +14,13 @@ export default {
   "projectName": "linguagens-api-doc",
   "organizationName": "kako13",
   "deploymentBranch": "deployment",
-  "trailingSlash": true,
+  "trailingSlash": false,
   "presets": [
     [
       "classic",
       {
         "docs": {
-          "sidebarPath": "/mnt/e/Imersão Alura/linguagens-api-doc/sidebars.js",
+          "sidebarPath": "/mnt/e/Dev Repo/Alura/Imersão Alura/linguagens-api-doc/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "docLayoutComponent": "@theme/DocPage",
           "docItemComponent": "@theme/ApiItem"
@@ -30,7 +30,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/mnt/e/Imersão Alura/linguagens-api-doc/src/css/custom.css"
+          "customCss": "/mnt/e/Dev Repo/Alura/Imersão Alura/linguagens-api-doc/src/css/custom.css"
         }
       }
     ]
