@@ -16,8 +16,7 @@ const config = {
 
   projectName: 'linguagens-api-doc',
   organizationName: 'kako13',
-  deploymentBranch: 'master',
-  trailingSlash: false,
+  deploymentBranch: 'deployment',
 
   presets: [
     [
